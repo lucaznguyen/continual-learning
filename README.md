@@ -9,7 +9,6 @@
 * Overcoming Catastrophic Forgetting in Incremental Few-Shot Learning by Finding Flat Minima [[paper]](https://openreview.net/pdf?id=ALvt7nXa2q)
 * Class-Incremental Continual Learning into the eXtended DER-verse [[paper]](https://arxiv.org/abs/2201.00766) [[code]](https://github.com/aimagelab/mammoth)
 ### Other
-* LifeLonger: A Benchmark for Continual Disease Classification [[paper]](https://arxiv.org/pdf/2204.05737.pdf) [[code]](https://github.com/mmderakhshani/lifelonger)
 * DualNet: Continual Learning, Fast and Slow [[paper]](https://arxiv.org/abs/2110.00175) [[code]](https://github.com/phquang/DualNet)
 * Contextual Transformation Networks for Online Continual Learning [[paper]](https://openreview.net/forum?id=zx_uX-BO7CH)
 * Learning Fast, Learning Slow: A General Continual Learning Method based on Complementary Learning System [[paper]](https://openreview.net/pdf?id=uxxFrDwrE7Y) [[code]](https://github.com/NeurAI-Lab/CLS-ER)
