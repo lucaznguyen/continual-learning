@@ -13,12 +13,12 @@
 * Efficient Continual Learning with Modular Networks and Task-Driven Priors [[paper](https://arxiv.org/abs/2012.12631)] [[code](https://github.com/TomVeniat/MNTDP) [[code]](https://github.com/facebookresearch/CTrLBenchmark)]
 ### 2018
 ### 2017
-* Overcoming catastrophic forgetting in neural networks (EWC) [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic) [[code](https://github.com/stokesj/EWC)]
-* Continual Learning Through Synaptic Intelligence [[paper](http://proceedings.mlr.press/v70/zenke17a.html)] [[code](https://github.com/ganguli-lab/pathint)]
-* Gradient Episodic Memory for Continual Learning [[paper](https://arxiv.org/abs/1706.08840)] [[code](https://github.com/facebookresearch/GradientEpisodicMemory)]
-* iCaRL: Incremental Classifier and Representation Learning [[paper](https://arxiv.org/abs/1611.07725)] [[code](https://github.com/srebuffi/iCaRL)]
+* Overcoming catastrophic forgetting in neural networks (EWC) [[slide](https://drive.google.com/file/d/1m0Vr8PKcyQB0fqOy3M8amKMVQuwTxJnB/view?usp=sharing)] [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic) [[code](https://github.com/stokesj/EWC)]
+* Continual Learning Through Synaptic Intelligence [[slide](https://drive.google.com/file/d/12lhqVSlkHIP725C5NfKN-ZCuH1A2GQlS/view?usp=sharing)] [[paper](http://proceedings.mlr.press/v70/zenke17a.html)] [[code](https://github.com/ganguli-lab/pathint)]
+* Gradient Episodic Memory for Continual Learning [[slide](https://drive.google.com/file/d/1715DA4BPWOGximi03kOAIRXatEoGdCWo/view?usp=sharing)] [[paper](https://arxiv.org/abs/1706.08840)] [[code](https://github.com/facebookresearch/GradientEpisodicMemory)]
+* iCaRL: Incremental Classifier and Representation Learning [[slide](https://drive.google.com/file/d/10Ed3K1Kd8bKee_4S6ZX2m30LgTTxVoS1/view?usp=sharing)] [[paper](https://arxiv.org/abs/1611.07725)] [[code](https://github.com/srebuffi/iCaRL)]
 ### 2016
-* Learning without forgetting [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
+* Learning without forgetting [[slide](https://drive.google.com/file/d/1oFjS8bDEHVrO4TStTdndTk87Fr6_WdZb/view?usp=sharing)] [[paper](https://link.springer.com/chapter/10.1007/978-3-319-46493-0_37)] [[code](https://github.com/lizhitwo/LearningWithoutForgetting)]
 
 ### Thesis
 * Continual Learning with Deep Architectures [[paper](https://icml.cc/Conferences/2021/ScheduleMultitrack?event=10833)]
