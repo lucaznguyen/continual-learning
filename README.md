@@ -1,6 +1,6 @@
 # Continual learning
 
-## This Week
+## This Week (31/7/2023 - 7/8/2023) (Done)
 * Exemplar-Supported Generative Reproduction for Class Incremental Learning [[paper](http://bmvc2018.org/contents/papers/0325.pdf)] [[code](https://github.com/TonyPod/ESGR)]
 * End-to-End Incremental Learning [[paper](https://arxiv.org/abs/1807.09536)][[code](https://github.com/fmcp/EndToEndIncrementalLearning)]
 
