@@ -10,7 +10,7 @@
 * Task Agnostic Representation Consolidation: a Self-supervised based Continual Learning Approach [[paper](https://arxiv.org/abs/2207.06267)] [[code](https://github.com/neurai-lab/tarc)]
 ### 2019
 * Efficient Lifelong Learning with A-GEM [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://github.com/facebookresearch/agem)]
-* Efficient Continual Learning with Modular Networks and Task-Driven Priors [[paper](https://arxiv.org/abs/2012.12631)] [[code](https://github.com/TomVeniat/MNTDP) [[code]](https://github.com/facebookresearch/CTrLBenchmark)]
+* Efficient Continual Learning with Modular Networks and Task-Driven Priors [[paper](https://arxiv.org/abs/2012.12631)] [[code](https://github.com/TomVeniat/MNTDP)] [[code](https://github.com/facebookresearch/CTrLBenchmark)]
 ### 2018
 ### 2017
 * Overcoming catastrophic forgetting in neural networks (EWC) [[slide](https://drive.google.com/file/d/1m0Vr8PKcyQB0fqOy3M8amKMVQuwTxJnB/view?usp=sharing)] [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic) [[code](https://github.com/stokesj/EWC)]
