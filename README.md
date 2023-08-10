@@ -1,8 +1,7 @@
 # Continual learning
 
-## This Week (31/7/2023 - 7/8/2023) (Done)
-* Exemplar-Supported Generative Reproduction for Class Incremental Learning [[paper](http://bmvc2018.org/contents/papers/0325.pdf)] [[code](https://github.com/TonyPod/ESGR)]
-* End-to-End Incremental Learning [[paper](https://arxiv.org/abs/1807.09536)][[code](https://github.com/fmcp/EndToEndIncrementalLearning)]
+## This Week (7/8/2023 - 14/8/2023) (Done)
+* FearNet: Brain-Inspired Model for Incremental Learning [[paper](https://openreview.net/pdf?id=SJ1Xmf-Rb)]
 
 ## Done
 ### 2022
@@ -12,6 +11,8 @@
 * Efficient Lifelong Learning with A-GEM [[paper](https://openreview.net/forum?id=Hkf2_sC5FX)] [[code](https://github.com/facebookresearch/agem)]
 * Efficient Continual Learning with Modular Networks and Task-Driven Priors [[paper](https://arxiv.org/abs/2012.12631)] [[code](https://github.com/TomVeniat/MNTDP)] [[code](https://github.com/facebookresearch/CTrLBenchmark)]
 ### 2018
+* Exemplar-Supported Generative Reproduction for Class Incremental Learning [[slide](https://drive.google.com/file/d/1rwfaOYT06SHMSvi0MNvgciGILl6Xe1pw/view?usp=sharing)] [[paper](http://bmvc2018.org/contents/papers/0325.pdf)] [[code](https://github.com/TonyPod/ESGR)]
+* End-to-End Incremental Learning [[paper](https://arxiv.org/abs/1807.09536)][[code](https://github.com/fmcp/EndToEndIncrementalLearning)]
 ### 2017
 * Overcoming catastrophic forgetting in neural networks (EWC) [[slide](https://drive.google.com/file/d/1m0Vr8PKcyQB0fqOy3M8amKMVQuwTxJnB/view?usp=sharing)] [[paper](https://arxiv.org/abs/1612.00796)] [[code](https://github.com/ariseff/overcoming-catastrophic) [[code](https://github.com/stokesj/EWC)]
 * Continual Learning Through Synaptic Intelligence [[slide](https://drive.google.com/file/d/12lhqVSlkHIP725C5NfKN-ZCuH1A2GQlS/view?usp=sharing)] [[paper](http://proceedings.mlr.press/v70/zenke17a.html)] [[code](https://github.com/ganguli-lab/pathint)]
