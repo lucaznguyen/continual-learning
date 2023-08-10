@@ -29,5 +29,3 @@
 ### Other
 * Distilling the Knowledge in a Neural Network [[paper]](https://arxiv.org/abs/1503.02531)
 * Obtaining Well Calibrated Probabilities Using Bayesian Binning [[paper]](https://people.cs.pitt.edu/~milos/research/AAAI_Calibration.pdf)
-
-## Slide
